@@ -6,7 +6,7 @@
 // @exclude            *://www.reddit.com/poll/*
 // @version            1.00
 // @run-at             document-start
-// @author             uint2048_t
+// @author             buckmelanoma
 // @grant              none
 // @icon               https://raw.githubusercontent.com/spikecodes/libreddit/master/static/favicon.ico
 
