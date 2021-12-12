@@ -4,7 +4,7 @@
 // @description        Redirect links to libredd.it for privacy
 // @include            *://www.reddit.com/*
 // @exclude            *://www.reddit.com/poll/*
-// @version            1.02
+// @version            1.00
 // @run-at             document-start
 // @author             uint2048_t
 // @grant              none
