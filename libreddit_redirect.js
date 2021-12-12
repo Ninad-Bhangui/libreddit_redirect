@@ -11,4 +11,4 @@
 // @icon               https://raw.githubusercontent.com/spikecodes/libreddit/master/static/favicon.ico
 // ==/UserScript==
 
-window.location.replace("https://libreddit.domain.glass" + window.location.pathname + window.location.search);
+window.location.replace("https://libredd.it" + window.location.pathname + window.location.search);
